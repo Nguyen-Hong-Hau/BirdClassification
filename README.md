@@ -1,4 +1,4 @@
-﻿# BirdClassification
+﻿# Bird Classification
 
 ## 1. Dataset
 Dataset: Caltech-UCSD Birds-200-2011 (CUB-200-2011), link:  https://data.caltech.edu/records/65de6-vp158/files/CUB_200_2011.tgz
